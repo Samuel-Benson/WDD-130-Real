@@ -1,0 +1,13 @@
+body,
+height {
+    height: 100%
+}
+
+body {
+    background-color: gray;
+}
+
+
+img {
+    height: 50%
+}
